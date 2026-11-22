@@ -1,0 +1,1 @@
+"""Chess Minesweeper desktop game."""
